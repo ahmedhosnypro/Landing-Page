@@ -1,4 +1,4 @@
-# Landing-Page
+# Landing Page
 Manipulating the DOM
 
 Changes:
